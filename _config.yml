@@ -1,9 +1,9 @@
 # Site
-name: 'Pintereso'
+name: 'Saldodromo'
 description: 'Tu sitio para comprar las mejores marcas a precios increíbles'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/webpage'
+baseurl: ''
 avatar: 'assets/images/sal.jpg'
 disqus: 'demowebsite'
 email: 'saldodromo@gmail.com'
