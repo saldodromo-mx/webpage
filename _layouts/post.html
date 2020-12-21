@@ -5,7 +5,10 @@ layout: default
     <div class="container">
     	<div class="row justify-content-center">
     		<div class="col-md-8">
-                
+        
+          <!-- Go to www.addthis.com/dashboard to customize your tools -->
+          <div class="addthis_inline_share_toolbox"></div>
+
     			<article class="card">
                     
                  {% if page.image %} 
@@ -14,7 +17,7 @@ layout: default
                     </span>
                     <img class="card-img-top mb-2" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
                 {% endif %}
-                    
+           
     			<div class="card-body">
                     
     				<h1 class="display-4">
@@ -44,7 +47,7 @@ layout: default
                       </a>
                     {% endfor %}
                     
-    			
+    				{% include comments.html %}
                     
     			</div>  
                     
