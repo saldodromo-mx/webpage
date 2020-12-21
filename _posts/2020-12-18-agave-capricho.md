@@ -6,8 +6,9 @@ image: "/assets/images/645618_11021910835230.jpg"
 #visit: "https://crmrkt.com/zpmep0"
 ---
 
-### Precio Original:  ~~$799~~
-### Precio Saldodromo:  $499
+### Precio en Tienda:  ~~$799~~
+### Precio Saldodromo:   $499
+### Precio por Botella:  $ 99
 
 Este ®Elixir de Agave nació hace más de 20 años para desafiar al monótono y aburrido mundo de los tequilas de gama media, sobresaliendo por su originalidad, su sabor amable y su personalidad que se disfruta fácilmente. 
 
