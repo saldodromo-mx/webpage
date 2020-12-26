@@ -5,16 +5,16 @@ layout: default
     <div class="container">
     	<div class="row justify-content-center">
     		<div class="col-md-8">
-                
+        
+          <!-- Go to www.addthis.com/dashboard to customize your tools -->
+          <div class="addthis_inline_share_toolbox"></div>
+
     			<article class="card">
                     
                  {% if page.image %} 
-                    <span class="pinme">
-                        <a data-pin-do="buttonPin" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/?url={{site.url}}{{site.baseurl}}{{page.url}}&media={{site.url}}{{site.baseurl}}/{{page.image}}&description={{ page.title }}- {{ page.content | strip_html | truncatewords:25 }}"></a>
-                    </span>
                     <img class="card-img-top mb-2" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
                 {% endif %}
-                    
+           
     			<div class="card-body">
                     
     				<h1 class="display-4">
@@ -42,9 +42,7 @@ layout: default
                       <a class="btn btn-sm btn-primary mt-2" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">
                         # {{ category | downcase }}
                       </a>
-                    {% endfor %}
-                    
-    				{% include comments.html %}
+                    {% endfor %}                    
                     
     			</div>  
                     
