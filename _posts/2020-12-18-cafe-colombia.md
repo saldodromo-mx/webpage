@@ -1,7 +1,7 @@
 ---
 title:  "Café de Grano Entero, Signature Colombia, 1 kg"
 metadate: "hide"
-categories: [ Abarrotes-y-Bebidas, Cafe-y-Te ]
+categories: [Leche-y-Bebidas]
 image: "/assets/images/611095_33208983158814.jpg"
 #visit: "https://crmrkt.com/jVMvBb"
 ---

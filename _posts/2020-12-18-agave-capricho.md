@@ -1,7 +1,7 @@
 ---
 title:  "Elixir de Agave El Capricho 6/750 ml"
 metadate: "hide"
-categories: [ Abarrotes-y-Bebidas, Licores]
+categories: [Licores]
 image: "/assets/images/645618_11021910835230.jpg"
 #visit: "https://crmrkt.com/zpmep0"
 ---

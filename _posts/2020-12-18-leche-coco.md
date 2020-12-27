@@ -1,7 +1,7 @@
 ---
 title:  "Leche de Coco Natural Calahua, 6 Piezas de 1L"
 metadate: "hide"
-categories: [ Abarrotes-y-Bebidas, Leche-y-Sustitutos]
+categories: [Leche-y-Bebidas]
 image: "/assets/images/632330_11037941202974.jpg"
 #visit: "https://crmrkt.com/zpmep0"
 ---

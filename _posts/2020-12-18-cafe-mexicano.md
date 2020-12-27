@@ -1,7 +1,7 @@
 ---
 title:  "Café Gourmet Molido, 100% Mexicano, 1 kg"
 metadate: "hide"
-categories: [ Abarrotes-y-Bebidas, Cafe-y-Te ]
+categories: [ Leche-y-Bebidas]
 image: "/assets/images/601380_12205882867742.jpg"
 #visit: "https://crmrkt.com/jVMvBb"
 ---

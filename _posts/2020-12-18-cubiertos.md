@@ -1,7 +1,7 @@
 ---
 title:  "Set de cubiertos 45 piezas Mikasa"
 metadate: "hide"
-categories: [ Linea-Blanca-y-Cocina, Cocina-y-Utensilios]
+categories: [ Cocina-y-Utensilios]
 image: "/assets/images/1424298-2_46787259301918.jpg"
 #visit: "https://crmrkt.com/zpmep0"
 ---

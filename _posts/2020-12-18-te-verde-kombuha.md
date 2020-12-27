@@ -1,7 +1,7 @@
 ---
 title:  "Zaaté Kombucha Té Verde Tisana Limonada Jengibre Chía 1 kg"
 metadate: "hide"
-categories: [ Abarrotes-y-Bebidas, Cafe-y-Te]
+categories: [ Leche-y-Bebidas]
 image: "/assets/images/635628_11037942186014.jpg"
 #visit: "https://crmrkt.com/zpmep0"
 ---
