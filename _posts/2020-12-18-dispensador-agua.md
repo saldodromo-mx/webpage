@@ -1,7 +1,7 @@
 ---
 title:  "Royal dispensador de agua caliente y fría por compresor"
 metadate: "hide"
-categories: [ Linea-Blanca-y-Cocina, Cocina-y-Utensilios]
+categories: [ Cocina-y-Utensilios]
 image: "/assets/images/646156_14260410056734.jpg"
 #visit: "https://crmrkt.com/zpmep0"
 ---

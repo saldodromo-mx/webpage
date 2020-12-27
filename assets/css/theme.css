@@ -510,3 +510,8 @@ a.next {
 .highlight {
   background-color: #f8f8f8;
 }
+
+.envio p  {
+  color: #B10F2E;
+  font-style: italic;
+}

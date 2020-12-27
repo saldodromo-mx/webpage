@@ -1,7 +1,7 @@
 ---
 title:  "Champagne Signature Brut 750ml"
 metadate: "hide"
-categories: [ Abarrotes-y-Bebidas, Vinos ]
+categories: [ Licores ]
 image: "assets/images/942108_49104977690654.jpg"
 #visit: "https://crmrkt.com/4K7441"
 ---

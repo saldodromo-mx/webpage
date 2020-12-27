@@ -1,7 +1,7 @@
 ---
 title:  "Champagne Brut 750 ml Nicolas Feuilatte"
 metadate: "hide"
-categories: [ Abarrotes-y-Bebidas, Vinos ]
+categories: [ Licores ]
 image: "/assets/images/635636.jpg"
 #   visit: "https://www.wowthemes.net/free-wordpress-theme-nectaria/"
 ---

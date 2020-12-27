@@ -1,7 +1,7 @@
 ---
 title:  "Sealy, Galveston, colchón queen size"
 metadate: "hide"
-categories: [ Muebles, Recamara]
+categories: [ Muebles]
 image: "/assets/images/1290060_12374603300894.jpg"
 #visit: "https://crmrkt.com/zpmep0"
 ---

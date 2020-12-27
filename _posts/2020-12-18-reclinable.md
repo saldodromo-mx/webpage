@@ -1,7 +1,7 @@
 ---
 title:  "Kuka Home, Sillón Reclinable de Piel, Color Café"
 metadate: "hide"
-categories: [ Muebles,Sofas-y-Sillones]
+categories: [ Muebles]
 image: "/assets/images/656768_16272879353886.jpg"
 #visit: "https://crmrkt.com/zpmep0"
 ---

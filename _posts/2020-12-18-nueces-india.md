@@ -1,7 +1,7 @@
 ---
 title:  "Nueces de la India 1.1 kg"
 metadate: "hide"
-categories: [ Abarrotes-y-Bebidas, Botanas-y-Dulces]
+categories: [ Botanas-y-Dulces]
 image: "/assets/images/18328_11011817308190.jpg"
 #visit: "https://crmrkt.com/zpmep0"
 ---

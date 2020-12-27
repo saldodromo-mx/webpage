@@ -1,7 +1,7 @@
 ---
 title:  "Castillo de salobreña vino sin alcohol, 3 de 1 L"
 metadate: "hide"
-categories: [ Abarrotes-y-Bebidas, Bebidas]
+categories: [ Licores]
 image: "/assets/images/652344_11096492605470.jpg"
 #visit: "https://crmrkt.com/zpmep0"
 ---

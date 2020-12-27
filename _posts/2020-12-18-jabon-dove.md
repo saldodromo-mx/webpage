@@ -1,7 +1,7 @@
 ---
 title:  "Jabón Líquido Corporal, Dove, 4 piezas"
 metadate: "hide"
-categories: [ Salud-y-Belleza,Belleza-y-Cuidado-Personal ]
+categories: [ Belleza-y-Cuidado-Personal ]
 image: "/assets/images/657831_27708720480286.jpg"
 #visit: "https://crmrkt.com/zpmep0"
 ---

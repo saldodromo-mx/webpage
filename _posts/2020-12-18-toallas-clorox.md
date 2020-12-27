@@ -1,7 +1,7 @@
 ---
 title:  "Clorox, toallas desinfectantes 4 piezas con 78 "
 metadate: "hide"
-categories: [ Hogar-y-Baño, Productos-de-Limpieza]
+categories: [Cocina-y-Utensilios]
 image: "/assets/images/103518_11052621692958.jpg"
 #visit: "https://crmrkt.com/zpmep0"
 ---
