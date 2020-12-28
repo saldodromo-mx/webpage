@@ -24,18 +24,15 @@
     
 <body>
     
-    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
-    <a class="navbar-brand font-weight-bolder mr-3" href="{{site.baseurl}}/index.html"><img src="{{site.baseurl}}/{{site.logo}}"></a>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top"> 
+    <a class="navbar-brand font-weight-bolder mr-3" href="https://api.whatsapp.com/send?phone=525621053092" rel="noopener noreferrer" target="_blank"> <img src="{{site.baseurl}}/assets/images/contacto-whats.png"> </a>
     <button class="navbar-light navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsDefault" aria-controls="navbarsDefault" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarsDefault">        
-    	<ul class="navbar-nav mr-auto align-items-center">            
-            {% include search-lunr.html %}    		
-    	</ul>
+    <div class="collapse navbar-collapse" id="navbarsDefault">           	
     	<ul class="navbar-nav ml-auto align-items-center">
     		{% include menu-header.html %}
-    	</ul>
+      </ul>
     </div>
     </nav>
     
@@ -51,7 +48,7 @@
     <div class="container">        
           <div class="socials-media">    
             <ul class="list-unstyled">
-              {% include footer-social.html %}
+             
             </ul>    
           </div>
           {% include footer-copyright.html %}
