@@ -1,6 +1,6 @@
-# "Pintereso" - Jekyll Template by WowThemes.net
+# "Saldodromo"
 
-[Live Demo](https://wowthemesnet.github.io/template-pintereso-bootstrap-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll/archive/master.zip) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-pintereso-bootstrap-jekyll/) &nbsp; | &nbsp; [WordPress version](https://www.wowthemes.net/themes/pinpresso-wordpress/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/39b9a517-08ac-4946-a5e3-36e6947422a6/deploy-status)](https://app.netlify.com/sites/saldodromo/deploys)
 
 ![Free Jekyll Theme Pintereso](assets/images/screenshot.jpg)
 
