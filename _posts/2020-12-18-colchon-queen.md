@@ -3,7 +3,7 @@ title:  "Sealy, Galveston, colchón queen size"
 metadate: "hide"
 categories: [ Muebles]
 image: "/assets/images/1290060_12374603300894.jpg"
-#visit: "https://crmrkt.com/zpmep0"
+visit: "https://articulo.mercadolibre.com.mx/MLM-857911500-colchon-sealy-_JM"
 ---
 
 ### Precio Original:  ~~$$11,999~~
