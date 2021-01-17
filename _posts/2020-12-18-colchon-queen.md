@@ -4,6 +4,8 @@ metadate: "hide"
 categories: [ Muebles]
 image: "/assets/images/1290060_12374603300894.jpg"
 #visit: "https://articulo.mercadolibre.com.mx/MLM-857911500-colchon-sealy-_JM"
+=======
+
 ---
 
 ### Precio Original:  ~~$$11,999~~
@@ -57,3 +59,4 @@ Unicased Technology®.
 ![img-5](../assets/images/1290060_12374604415006.jpg)
 
 Encuentranos en [Mercado Libre](https://articulo.mercadolibre.com.mx/MLM-857911500-colchon-sealy-_JM)
+
