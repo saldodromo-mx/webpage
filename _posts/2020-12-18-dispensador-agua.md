@@ -30,5 +30,4 @@ Otras características:
 
 ![img-3](../assets/images/646156_14260409991198.jpg)
 
-Encuentranos también en Mercado Libre:
-https://articulo.mercadolibre.com.mx/MLM-855518481-dispensador-de-agua-marca-royal-_JM
+Encuentranos también en [Mercado Libre](https://articulo.mercadolibre.com.mx/MLM-855518481-dispensador-de-agua-marca-royal-_JM)
