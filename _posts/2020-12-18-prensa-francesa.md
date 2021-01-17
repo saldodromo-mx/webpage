@@ -16,6 +16,4 @@ Esta práctica versión de prensa francesa es ideal para preparar una porción i
 - En cerámica de gres, resistente a despostilladuras y decoloraciones.
 - Conserva por más tiempo la temperatura de los alimentos (frío o caliente).
 
-Encuentranos en Mercado Libre
-
-https://articulo.mercadolibre.com.mx/MLM-857917621-prensa-francesa-_JM
+Encuentranos en [Mercado Libre](https://articulo.mercadolibre.com.mx/MLM-857917621-prensa-francesa-_JM)
