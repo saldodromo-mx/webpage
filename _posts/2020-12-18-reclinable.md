@@ -27,3 +27,7 @@ Fotos con fin ilustrativo
 ![img-2](../assets/images/656768_16272878567454.jpg)
 
 ![img-3](../assets/images/656768_16272879812638.jpg)
+
+Encuentranos en Mercado Libre:
+
+https://articulo.mercadolibre.com.mx/MLM-857913980-sillon-reclinable-_JM
