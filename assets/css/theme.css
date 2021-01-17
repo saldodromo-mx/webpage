@@ -237,6 +237,7 @@ article .card-body {
     border-radius:6px;
      transition: all 0.2s;
 }
+
 .card-pin.raco:hover i.text-muted {
     color:#bd081c !Important;
      transition: all 0.2s;
