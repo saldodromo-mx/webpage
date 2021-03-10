@@ -1,5 +1,5 @@
 ---
-title:  "Clorox, toallas desinfectantes 4 piezas con 78 "
+title:  "Clorox, toallas desinfectantes. Bote Individual "
 metadate: "hide"
 categories: [Cocina-y-Utensilios]
 image: "/assets/images/103518_11052621692958.jpg"
@@ -7,7 +7,7 @@ image: "/assets/images/103518_11052621692958.jpg"
 ---
 
 ### Precio Original:  ~~$399~~
-### Precio Saldodromo:  $265
+### Precio Saldodromo:  $65
 
 Clorox® toallitas desinfectantes
 
