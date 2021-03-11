@@ -1,5 +1,5 @@
 ---
-title:  "Pruebas Rápidas COVID-19 "
+title:  "Pruebas Rápidas COVID-19"
 metadate: "hide"
 categories: [Pruebas-Rápidas]
 image: "/assets/images/pruebas_rapidas.jpg"
